@@ -1,0 +1,15 @@
+type: code
+files:
+- name: main.js
+  visible: true
+  text: |-
+    statement = false;
+    console.log(!statement&&false||false);
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/8476
+status: Solved
+feedback:
+  message: <html>Correct solution<br/><br/>Continue on <a href="https://hyperskill.org/learn/step/8476">JetBrains
+    Academy</a></html>
+  time: Tue, 27 Oct 2020 15:51:27 UTC
+record: -1

@@ -1,0 +1,45 @@
+html {
+    background-color: hsl(275, 83%, 64%);
+    display: inline-block;
+}
+
+.container {
+    position: absolute;
+    top: 500px;
+    left: 600px;
+}
+
+kbd {
+    background-color: white;
+    font-size: 30px;
+    padding: 100px 15px 10px 15px;
+    width: 600px;
+    height: 100px;
+    vertical-align: bottom;
+    text-align: center;
+    border: 5px solid gray;
+}
+
+.before_space {
+    position: relative;
+    margin: 0 59px 0 0;
+}
+
+.black-keys kbd {
+    display: inline-block;
+    position: relative;
+    padding: 50px 10px 20px 10px;
+    margin-left: 17px;
+    width: 20px;
+    height: 20px;
+    bottom: 140px;
+    left: 21px;
+    font-size: 10px;
+    color: white;
+    background-color: black;
+    border: 0;
+}
+
+.invisible {
+    visibility: hidden;
+}

@@ -1,0 +1,16 @@
+type: code
+files:
+- name: main.js
+  visible: true
+  text: |-
+    console.log("I am learning Java");
+    console.log("I am learning JavaScript");
+    console.log("I am learning C++");
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/8174
+status: Solved
+feedback:
+  message: <html>Correct solution<br/><br/>Continue on <a href="https://hyperskill.org/learn/step/8174">JetBrains
+    Academy</a></html>
+  time: Tue, 27 Oct 2020 15:12:31 UTC
+record: -1
